@@ -1,4 +1,4 @@
-echo "# amos1" >> README.md
+echo "# amos11" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
